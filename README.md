@@ -1,39 +1,32 @@
-# Image-Clip-Animation-
-# Card Slider
+# Image Clip Animation with Sliders
 
-A simple and responsive card slider built using HTML, CSS, and JavaScript.
-
-## Demo
-Include a hosted link or a screenshot here if available.
+This project showcases an image clip animation effect using HTML and CSS. It allows smooth transitions between images in a visually appealing slider format.
 
 ## Features
-- Smooth sliding animations
-- Responsive design
-- Easy to customize
+- Smooth image transitions with CSS animations
+- Simple and responsive design
+- Easy to customize and integrate into other projects
 
-## Installation
-1. Clone the repository or download the ZIP file.
-   ```sh
-   git clone <repository-url>
-   ```
-2. Open the `index.html` file in a browser.
-
-## File Structure
+## Project Structure
 ```
-card-slider/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    ├── designer.jpg
-    ├── developer.jpg
-    ├── editor.jpg
-    ├── gamer.jpg
-    ├── marketer.jpg
+Image Clip Animation/
+├── index.html  # Main HTML file
+├── style.css   # Stylesheet for animations and layout
+└── images/     # Directory containing images used in the animation
+    ├── img-1.jpg
+    ├── img-2.jpg
+    ├── img-3.jpg
+    ├── img-4.jpg
+    ├── img-5.jpg
 ```
 
-## Usage
-Modify the `index.html` to update the content. Customize the styles in `style.css` and update the slider behavior in `script.js`.
+## How to Use
+1. Clone or download the repository.
+2. Open `index.html` in a browser to view the animation.
+3. Modify `style.css` to customize the effect as needed.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and free to use for personal and commercial purposes.
+
+---
+Feel free to contribute or suggest improvements!
